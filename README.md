@@ -1,5 +1,3 @@
-#EXTINF:-1 tvg-id="ts468" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="Bengali;Entertainment",Star Jalsha HD
-http://172.16.88.20:18190/starjalsha/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/D6jGMpw.jpg",Star Jalsha HD [IN]
 http://172.16.88.20:18190/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/RqJGZfm.png",Sony Aath HD [IN]
